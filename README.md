@@ -1,0 +1,1 @@
+Small project using provide/inject to pass data through components
